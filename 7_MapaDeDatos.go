@@ -1,3 +1,4 @@
+// Codigo sobre mapas en lenguaje GO
 package main
 
 import (
