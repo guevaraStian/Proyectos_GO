@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{.Title}}</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        .card { padding: 10px; margin: 10px; border: 1px solid #ccc; display: inline-block; }
+    </style>
+</head>
+<body>
+    <h1>{{.Title}}</h1>
+
+    <div class="card">Los usuarios activos: {{.Users}}</div>
+    <div class="card">Los visitantes hoy: {{.Visitors}}</div>
+
+    <canvas id="myChart" width="400" height="200"></canvas>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
