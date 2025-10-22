@@ -9,7 +9,15 @@ Windows
 https://go.dev/doc/install
 ```
 
-Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Proyectos_GO.git
+Cd Proyectos_GO
+git push origin master
+```
+
+Luego de tener instalado GO podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
 cd    
