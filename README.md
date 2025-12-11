@@ -1,15 +1,15 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS EN GO </h1> 
 
-Los pasos para poner en ejecución son los siguientes
-Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos
+Los pasos para poner en ejecución son los siguientes.
+Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos.
 
-Windows
-```Pagina web
+Windows.
+```Pagina web.
 https://go.dev/doc/install
 ```
 
-```Terminal de comandos
+```Terminal de comandos.
 git --version
 git init
 git clone https://github.com/guevaraStian/Proyectos_GO.git
