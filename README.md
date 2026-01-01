@@ -17,9 +17,9 @@ Cd Proyectos_GO
 git push origin master
 ```
 
-Luego de tener instalado GO podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+Luego de tener instalado GO podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos.
 
-```Terminal de comandos
+```Terminal de comandos.
 cd    
 go version 
 go run <Nombre_Proyecto.go>
