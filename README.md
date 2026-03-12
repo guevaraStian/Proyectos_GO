@@ -9,6 +9,8 @@ Windows.
 https://go.dev/doc/install
 ```
 
+Con el fin de descargar los proyectos, se da click en el boton verde y luego en dowload, otra forma de descargarlo es usando los siguientes comandos git.
+
 ```Terminal de comandos.
 git --version
 git init
