@@ -1,6 +1,7 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS EN GO </h1> 
 
+Este repositorio tiene diferentes proyectos en el lenguje de programacion GO, organizados desde el mas sencillo al mas complejo.
 Con el fin de ejecutar los siguientes proyectos, se realizan los siguientes pasos para poner en ejecución son los siguientes.
 Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos.
 
