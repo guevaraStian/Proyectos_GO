@@ -10,7 +10,7 @@ Windows.
 https://go.dev/doc/install
 ```
 
-Con el fin de descargar los proyectos, se da click en el boton verde y luego en dowload, otra forma de descargarlo es usando los siguientes comandos git, luego de haber instalado git en el sistema operativo que usas.
+Con el fin de descargar los proyectos, se da click en el boton verde y luego en dowload, otra forma de descargarlo es usando los siguientes comandos git, luego de haber instalado git en el sistema operativo que usas, funcionan igual en todos los sitemas operativos.
 
 ```Terminal de comandos.
 git --version
