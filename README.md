@@ -10,6 +10,26 @@ Windows.
 https://go.dev/doc/install
 ```
 
+
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
+
 Con el fin de descargar los proyectos, se da click en el boton verde y luego en dowload, otra forma de descargarlo es usando los siguientes comandos git, luego de haber instalado git en el sistema operativo que usas, funcionan igual en todos los sitemas operativos.
 
 ```Terminal de comandos.
