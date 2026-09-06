@@ -49,7 +49,7 @@ go run <Nombre_Proyecto.go>
 go build
 
 ```
-Primero se ejeguta el go run, y luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+Primero se ejeguta el go run, y luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes, el comando para ejecutar go es el siguiente.
 
 ```Terminal de comandos.
 go run main.go
