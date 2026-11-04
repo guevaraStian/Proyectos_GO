@@ -3,7 +3,7 @@
 
 Este repositorio tiene diferentes proyectos en el lenguje de programacion GO, organizados desde el mas sencillo al mas complejo.
 Con el fin de ejecutar los siguientes programaa, se realizan los siguientes pasos.
-Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos.
+Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos. Luego de descargar go, se procede a instalar git en el computador para poder ejecutar los software creados.
 
 Windows.
 ```Pagina web.
